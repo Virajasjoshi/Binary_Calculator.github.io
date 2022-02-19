@@ -1,0 +1,62 @@
+body {
+    width: 100%; 
+    background-color: burlywood;
+    text-align: center;
+    
+
+}
+.section{
+    width: 100%;
+    text-align: center;
+    margin-left: 50%;  
+}
+
+h1{
+   color: blue; 
+   background-color: rgba(6, 19, 31, 0.849);
+   overflow: hidden;
+   display: inline;
+   margin-bottom: 20px;
+
+
+
+}
+  
+#res {
+    display: block;
+    font-size: 20px;
+    height: 48px;
+    background-color: lightgray;
+    border: 2px solid black;
+    box-sizing: border-box;
+    width: 90%;
+    overflow: hidden;
+    margin-left: 5%;
+}
+#btns {
+    display: block;
+    overflow: hidden;
+    width: 90%;
+    text-align: center;
+    margin-left: 5%;
+    padding: 0px;
+    margin-right: 3%;
+    
+}
+#btns button {
+    display: block;
+    float: left;
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    background: black;
+    color: red;
+}
+#btns #btn0, #btns #btn1 {
+    background-color: lightgreen;
+    color: brown;
+}
+#btns #btnClr, #btns #btnEql {
+    background-color: darkgreen;
+    color: white;
+}

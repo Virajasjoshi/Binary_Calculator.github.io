@@ -13,10 +13,10 @@ body {
 
 h1{
    color: blue; 
-   background-color: rgba(6, 19, 31, 0.849);
    overflow: hidden;
    display: inline;
-   margin-bottom: 20px;
+   margin-bottom: 30px;
+   text-decoration: underline; 
 
 
 
